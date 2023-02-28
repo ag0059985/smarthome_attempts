@@ -1,0 +1,18 @@
+[
+    {
+        "name": "10Amp Smart Plug",
+        "id": "d79c2ecbff7321e3f9pf0j",
+        "key": "36b467f182af38af",
+        "mac": "d8:1f:12:4c:99:e4",
+        "category": "cz",
+        "product_name": "10Amp Smart Plug",
+        "product_id": "jwv5jtbscfluha0g",
+        "biz_type": 18,
+        "model": "DSP1100",
+        "sub": false,
+        "icon": "https://images.tuyain.com/smart/icon/ay1545304748499XogPc/25a35a2b8a1668f67124311d5b50f141.png",
+        "uuid": "a5690ce0e24a02b4",
+        "ip": "192.168.1.15",
+        "version": "3.3"
+    }
+]

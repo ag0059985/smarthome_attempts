@@ -1,0 +1,37 @@
+{
+    "timestamp": 1677569501.3580847,
+    "devices": [
+        {
+            "id": "d71e68e803d616215amq45",
+            "ip": "192.168.1.2",
+            "active": 2,
+            "ablilty": 0,
+            "encrypt": true,
+            "productKey": "keyjup78v54myhan",
+            "name": "",
+            "key": "",
+            "mac": "",
+            "token": "",
+            "wf_cfg": "",
+            "dev_type": "default",
+            "origin": "broadcast",
+            "ver": "3.3"
+        },
+        {
+            "id": "d79c2ecbff7321e3f9pf0j",
+            "ip": "192.168.1.15",
+            "active": 2,
+            "ablilty": 0,
+            "encrypt": true,
+            "productKey": "keyjup78v54myhan",
+            "name": "10Amp Smart Plug",
+            "key": "36b467f182af38af",
+            "mac": "d8:1f:12:4c:99:e4",
+            "token": "",
+            "wf_cfg": "",
+            "dev_type": "default",
+            "origin": "broadcast",
+            "ver": "3.3"
+        }
+    ]
+}
