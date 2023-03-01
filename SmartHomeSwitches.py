@@ -46,3 +46,4 @@ if statusPlug == True:
 else:
     result = c.sendcommand(laptopPlugid,commandsOn)
 print("Results\n:", result)
+
